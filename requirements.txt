@@ -2,3 +2,9 @@ fastapi
 aiohttp
 uvicorn
 apscheduler
+ccxt
+pandas
+numpy
+requests
+ta
+python-multipart
